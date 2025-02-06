@@ -1,4 +1,4 @@
-# NP_basin_hopping
+# NP Basin Hopping and solvent simulations
 
 Scripts and code for basin hopping simulations of Nanoparticles with Monte Carlo (MC) moves that swap atom types of neighboring atoms. Additionally, scripts for creating solvated nanoparticles and running molecular dynamics (MD) simulations.
 
